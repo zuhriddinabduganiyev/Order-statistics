@@ -8,6 +8,9 @@ This repository contains a dashboard that visualizes order statistics, including
 ![Dashboard 1-page](1.png)
 ![Dashboard 2-page](3.png)
 
+## Joins in Dataset
+![Joins in dataset 2-page](3.png)
+
 ### 📊 Dashboard Overview  
 
 #### English 🇬🇧  
