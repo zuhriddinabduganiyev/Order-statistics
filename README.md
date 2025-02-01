@@ -1,3 +1,13 @@
+## 📊 Order Statistics Dashboard on Yandex Datalens
+
+This repository contains a dashboard that visualizes order statistics, including total revenue, shipment distribution, and geographical data.
+
+🔗 **Live Repository:** [Order Statistics on Yandex Datalens](https://datalens.yandex.cloud/hbh0vgwjawki3)
+
+![Dashboard 1-page](2.png)
+![Dashboard 1-page](1.png)
+![Dashboard 2-page](3.png)
+
 ### 📊 Dashboard Overview  
 
 #### English 🇬🇧  
